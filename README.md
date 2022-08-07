@@ -1,6 +1,10 @@
-<img src="snake.png" width="125" align="right" alt="Java Logo"></a>
+<img src="snake.png" width="125" align="right" alt="Java Logo" style="margin-bottom: 10px"></a>
 
 # Java Snake Desktop Application
+
+<p align="center" >
+ <img src="images/snake.png"  height="auto">
+</p>
 
 # Table of Contents
 
